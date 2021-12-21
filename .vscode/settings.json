@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/source",
+    "clang-format.executable": "C:\\Program Files\\LLVM\bin",
+    "editor.formatOnSave": true
+}

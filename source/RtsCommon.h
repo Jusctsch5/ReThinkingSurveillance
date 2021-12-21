@@ -1,0 +1,10 @@
+#ifndef RTSCOMMON_H_
+#define RTSCOMMON_H_
+
+#define MAX_OBJECTS 30
+
+enum ImageTypeEnum { NONE, IMAGE, SLIDER, BACKGROUND, NOY_IMAGE, NOX_IMAGE };
+
+enum ModuleTypeEnum { MAIN, CHOOSER, PAINT, MAP, ALL, PHYSICS, CAMERA };
+
+#endif // RTSCOMMON_H_
